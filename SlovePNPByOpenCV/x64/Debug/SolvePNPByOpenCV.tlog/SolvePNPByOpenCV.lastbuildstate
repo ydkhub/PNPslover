@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v140:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=8.1
+Debug|x64|C:\Users\ydk\Desktop\运动估计\相机位姿估计1：根据四个特征点估计相机姿态 随文Demo\|
